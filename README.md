@@ -1,6 +1,6 @@
 # To figure out different code..
 
-## Nano
+## Nano installed with Brew.
 
 - brew install nano
 - brew install nanorc
